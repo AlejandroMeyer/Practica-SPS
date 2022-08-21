@@ -1,4 +1,4 @@
-# Practica-SPS
+# Práctica-SPS
 
 
 Práctica realizada en elasticsearch para SPS.
